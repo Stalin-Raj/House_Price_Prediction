@@ -1,0 +1,2 @@
+# House_Price_Prediction
+The dataset I used is USA_Housing.csv from kaggle. I used Linear Regression,Support Vector Machine and Random Forest models for evaluation
